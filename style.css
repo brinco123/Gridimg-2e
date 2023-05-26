@@ -1,0 +1,13 @@
+.título{
+    color:blue;
+    text-align: center;
+    font-size: 25px;
+}
+.imagem{
+    width: 300px;
+
+}
+.div-todasimagens{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
